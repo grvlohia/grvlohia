@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @grvlohia
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, AI, Blockchain, Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at gaurav.lohia.cse14@iitbhu.ac.in OR www.linkedin.com/in/gauravlohia
 
 <!---
